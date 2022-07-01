@@ -31,9 +31,9 @@ header {
 
 .photo {
     margin-left: 7%;
-    border-radius: 50%;
+    border-radius: 25%;
     width: 130px;
-    height: 130px;
+    height: 150px;
     overflow: hidden;
 }
 .des{
