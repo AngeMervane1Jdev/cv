@@ -32,6 +32,8 @@ header {
 .photo {
     margin-left: 7%;
     border-radius: 50%;
+    width: 130px;
+    height: 130px;
     overflow: hidden;
 }
 .des{
@@ -55,7 +57,7 @@ h3{
     margin-top: -10%;
 }
 .right p{
-   margin-left: 400px;
+   margin-left: 600px;
    letter-spacing: .1rem;    
 }
 .info{
